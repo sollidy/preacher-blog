@@ -5,27 +5,16 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Категории",
+      "url": "/categories"
+    },
+    {
+      "name": "Инфо",
       "url": "/about"
     },
     {
       "name": "Elements",
       "url": "/elements"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Categories",
-          "url": "/categories"
-        }
-      ]
     }
   ],
   "footer": [
@@ -34,16 +23,12 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Категории",
+      "url": "/categories"
+    },
+    {
+      "name": "Инфо",
       "url": "/about"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "#"
     }
   ]
 }

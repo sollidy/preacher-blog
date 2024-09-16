@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Geeky Nextjs",
+    "title": "Konspekt",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_white": "/images/logo-light.png",
-    "logo_width": "150",
+    "logo_width": "190",
     "logo_height": "39",
-    "logo_text": "Conspect"
+    "logo_text": "Konspekt"
   },
   "settings": {
     "theme_switcher": true,
@@ -22,7 +22,7 @@
   },
   "params": {
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper.",
+    "footer_content": "Краткое содержание проповедей и ключевые моменты, извлеченные с помощью искусственного интеллекта.",
     "copyright": "2024"
   },
   "metadata": {
@@ -33,7 +33,7 @@
   "widgets": {
     "about": {
       "enable": true,
-      "content": "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+      "content": "AI-конспекты - ваш путь к духовному росту!"
     },
     "featured_posts": {
       "enable": true,

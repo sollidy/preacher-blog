@@ -66,7 +66,7 @@ const Post = ({ post }) => {
         className="btn btn-outline-primary mt-4"
         href={`/${blog_folder}/${post.slug}`}
       >
-        Read More
+        Читать
       </Link>
     </div>
   );
