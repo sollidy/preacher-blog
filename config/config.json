@@ -37,12 +37,12 @@
     },
     "featured_posts": {
       "enable": true,
-      "title": "Blog Categories",
+      "title": "Категории",
       "showPost": 3
     },
     "categories": {
       "enable": true,
-      "title": "Blog Categories"
+      "title": "Категории"
     },
     "newsletter": {
       "enable": false,

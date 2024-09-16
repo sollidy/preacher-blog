@@ -1,5 +1,5 @@
 ---
-title: About The Author
+title: О проекте
 # image: /images/author.png
 description: "meta description"
 layout: about
@@ -30,6 +30,42 @@ experience:
     - Best Book
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus ndisse. morbi quis nunc.
+Привет всем! Я хочу рассказать, почему я начал создавать краткие контексты AI проповедей с YouTube и какую пользу это приносит.
 
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse. morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis ndisse. morbi quis nunc, at arcu quam facilisi ndisse. morbi quis nunc, at arcu quam facilisi
+#### Как всё началось
+
+Всё началось с моего личного духовного пути. Я всегда искал вдохновение и мудрость в различных проповедях, но сталкивался с одной большой проблемой - нехваткой времени. Работа, семья, другие обязательства... Найти час или два на просмотр полной проповеди становилось всё сложнее.
+
+Однажды, просматривая очередное видео на повышенной скорости и пытаясь уловить главное, меня осенило: а что если использовать современные технологии, чтобы сделать этот процесс эффективнее?
+
+Так родилась идея применить искусственный интеллект для создания кратких контекстов проповедей. Я начал экспериментировать, и результаты превзошли мои ожидания. AI мог не просто сократить проповедь, но выделить ключевые идеи, сохранив при этом основной посыл и духовную глубину.
+
+#### Польза проекта
+
+Теперь о пользе, которую я вижу в этом проекте:
+
+1. **Экономия времени**: вместо часа можно за 5-10 минут ознакомиться с основными идеями проповеди.
+
+2. **Доступность**: люди с плотным графиком теперь могут регулярно получать духовную пищу.
+
+3. **Фокус на главном**: AI выделяет ключевые моменты, помогая лучше усвоить основной посыл.
+
+4. **Разнообразие**: можно ознакомиться с большим количеством проповедей и учений из разных источников.
+
+5. **Повторение и закрепление**: краткие контексты удобно перечитывать, закрепляя важные мысли в памяти.
+
+6. **Преодоление языкового барьера**: AI может создавать контексты на разных языках, делая проповеди доступными для международной аудитории.
+
+7. **Помощь в выборе**: можно быстро определить, какая проповедь наиболее актуальна для вас в данный момент.
+
+8. **Поддержка самообразования**: краткие контексты становятся отличным материалом для размышлений и самостоятельного изучения.
+
+9. **Облегчение обсуждений**: имея краткое изложение, легче организовать групповые обсуждения или поделиться идеями с друзьями.
+
+10. **Духовный рост**: регулярное знакомство с различными учениями способствует постоянному духовному развитию.
+
+#### Заключение
+
+Моя цель - сделать духовные учения более доступными для современного человека, помогая каждому найти свой путь к внутреннему росту и гармонии. Я верю, что технологии могут служить мостом между древней мудростью и современным ритмом жизни, и я рад быть частью этого процесса.
+
+Для обратной связи и предложений, свяжитесь со мной через [ВК](https://vk.com/sollidy).

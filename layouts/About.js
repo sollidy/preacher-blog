@@ -8,7 +8,7 @@ const About = ({ data }) => {
   const { title, image, education, experience } = frontmatter;
 
   return (
-    <section className="section mt-16">
+    <section className="section">
       <div className="container text-center">
         {image && (
           <div className="mb-8">
@@ -22,13 +22,17 @@ const About = ({ data }) => {
             />
           </div>
         )}
-        {markdownify(title, "h1", "h1 text-left lg:text-[55px] mt-12")}
+        {markdownify(
+          title,
+          "h1",
+          "h1 text-left text-[40px] lg:text-[55px] my-10"
+        )}
 
         <div className="content text-left">
           <MDXRemote {...mdxContent} components={shortcodes} />
         </div>
 
-        <div className="row mt-24 text-left lg:flex-nowrap">
+        {/* <div className="row mt-24 text-left lg:flex-nowrap">
           <div className="lg:col-6 ">
             <div className="rounded border border-border p-6 dark:border-darkmode-border ">
               {markdownify(education.title, "h2", "section-title mb-12")}
@@ -44,13 +48,13 @@ const About = ({ data }) => {
               </div>
             </div>
           </div>
-          <div className="experience mt-10 lg:mt-0 lg:col-6">
+          <div className="experience mt-10 lg:col-6 lg:mt-0">
             <div className="rounded border border-border p-6 dark:border-darkmode-border ">
               {markdownify(experience.title, "h2", "section-title mb-12")}
               <ul className="row">
                 {experience?.list?.map((item, index) => (
                   <li
-                    className="mb-5 text-lg font-bold text-dark dark:text-darkmode-light lg:col-6"
+                    className="mb-5 text-lg font-bold text-dark lg:col-6 dark:text-darkmode-light"
                     key={"experience-" + index}
                   >
                     {item}
@@ -59,7 +63,7 @@ const About = ({ data }) => {
               </ul>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );

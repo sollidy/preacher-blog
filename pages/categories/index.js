@@ -13,9 +13,9 @@ const Categories = ({ categories }) => {
     <Base title={"categories"}>
       <section className="section pt-0">
         {markdownify(
-          "Categories",
+          "Категории",
           "h1",
-          "h2 mb-16 bg-theme-light dark:bg-darkmode-theme-dark py-12 text-center lg:text-[55px]"
+          "h2 mb-8 lg:mb-16 bg-theme-light dark:bg-darkmode-theme-dark py-12 text-center lg:text-[55px]"
         )}
         <div className="container pt-12 text-center">
           <ul className="row">
@@ -47,7 +47,7 @@ export const getStaticProps = () => {
   const categories = getTaxonomy(`content/${blog_folder}`, "categories");
   const categoriesWithPostsCount = categories.map((category) => {
     const filteredPosts = posts.filter((post) =>
-      post.frontmatter.categories.map(e => slugify(e)).includes(category)
+      post.frontmatter.categories.map((e) => slugify(e)).includes(category)
     );
     return {
       name: category,
