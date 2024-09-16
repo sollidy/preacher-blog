@@ -1,7 +1,7 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "1111111111111111111"
 date: 2022-04-04T01:00:00Z
-image: /images/post/post-1.png
+image: /images/post/bg.jpg
 categories: ["programming"]
 featured: true
 draft: false
@@ -19,7 +19,7 @@ Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-![alter-text](/images/post/post-1.png)
-*Example Caption*
+![alter-text](/images/post/bg.jpg)
+_Example Caption_
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
