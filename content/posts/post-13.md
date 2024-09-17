@@ -1,25 +1,42 @@
 ---
-title: "Why you need to learn PHP"
-date: 2022-04-04T13:00:00Z
-image: /images/post/bg-4.jpg
-categories: ["youtube", "artificial-intelligence"]
+title: "Где ломается личность?"
+date: 2024-09-17T15:00:00Z
+image: /images/post/post-3.jpg
+categories: ["Андрей Шаповалов", "проповедь", "принципы"]
 featured: false
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Тема сегодняшней беседы касается так называемой "точки слома". Ключевой вопрос заключается в том, почему мы ломаемся и что служит причиной этого. Сегодня я поделюсь пятью основными сферами, которые могут стать причиной слома.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Перед реальным сломом начинает формироваться внутренний диалог. Этот диалог нельзя игнорировать. Он происходит на всех уровнях: духовном, душевном и физическом. И вот здесь наступает критический момент.
 
-## Covid-19 Situation
+Преодолеть свою точку слома – это значит научиться закрывать рецепторы боли и эмоциональных переживаний. Когда вы почувствуете прилив новых сил, вы сможете двигаться дальше и преодолеть свои лимиты.
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Сегодня я хотел бы поделиться пятью основными моментами, которые могут помочь предотвратить слом.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+##### 1. Отсутствие реальной цели или мотивации
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Когда у вас нет конкретной цели или причины для достижения чего-либо, сломаться становится очень просто. Например, если вы решили похудеть без конкретной цели, вероятно, вам будет трудно достичь успеха. Однако, если у вас есть определенная дата, например, свадьба, то мотивация возрастает и позволяет продвинуть границы своих возможностей.
 
-![alter-text](/images/post/post-1.png)
-_Example Caption_
+##### 2. Искусственные потребности и ложные ценности
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+С самого детства нам навязывают ложные ценности и искусственные потребности. В погоне за этими ложными целями мы часто ломаемся, так и не достигнув их. Осознание того, что настоящие ценности – это мир в сердце и уют в доме, может освободить нас от ненужной гонки.
+
+##### 3. Чужие лимиты
+
+Многие из нас не продвигаются дальше, потому что никогда не видели, как это кто-то другой делал. Этот комплекс ограничений можно сравнить с экспериментом с блохами, которые не могут прыгнуть выше определенного уровня, так как привыкли к ограничению.
+
+##### 4. Страх провала или неуспеха
+
+В нашей жизни страх провала часто бывает сильнее самого провала. Мы сами завышаем стоимость проигрыша до такой степени, что даже не пытаемся сделать шаг вперед, избегая потенциальной неудачи.
+
+##### 5. Абсолютизация
+
+Абсолютизация людей и ситуаций ведет к разочарованию, когда ожидания не совпадают с реальностью. На земле нет ничего абсолютного, кроме Бога. Никогда не ставьте кого-то на пьедестал совершенства, так как это заранее ведет к провалу.
+
+#### Подведение итогов
+
+Научиться проходить через свои точки слома – значит стать человеком, который понимает свои пределы и знает, как их преодолеть. Это требует анализа и готовности бросить себе вызов. Мир и гармония возможны, когда мы понимаем и принимаем свои ограничения и работаем над их преодолением. Пусть этот путь станет началом великих перемен в вашей жизни.
+
+[YouTube видео](https://youtu.be/UoIb8H7AUSw?si=Hg2U8zVPFLe6FSNQ)
