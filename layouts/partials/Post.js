@@ -19,7 +19,7 @@ const Post = ({ post }) => {
             src={post.frontmatter.image}
             alt={post.frontmatter.title}
             width={405}
-            height={208}
+            height={162}
           />
         )}
         <ul className="absolute left-2 top-3 flex flex-wrap items-center gap-y-2">
