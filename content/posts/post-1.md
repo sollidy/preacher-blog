@@ -2,7 +2,7 @@
 title: "1111111111111111111"
 date: 2022-04-04T01:00:00Z
 image: /images/post/bg.jpg
-categories: ["programming"]
+categories: ["zz"]
 featured: true
 draft: false
 ---
