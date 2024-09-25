@@ -3,7 +3,7 @@ title: "7 признаков человека, посланного в вашу 
 date: 2024-09-21T16:00:00Z
 image: /images/post/post-8.jpg
 categories: ["Андрей Шаповалов", "школа духа"]
-featured: true
+featured: false
 draft: false
 ---
 
