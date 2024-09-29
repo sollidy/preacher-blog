@@ -9,7 +9,7 @@
         "theme_dark": "#1a202c"
       },
       "text_color": {
-        "default": "#555",
+        "default": "#4c4c4c",
         "dark": "#222",
         "light": "#999"
       }
@@ -20,12 +20,12 @@
         "body": "#1a1a1a",
         "border": "#393939",
         "theme_light": "#f4f7f7",
-        "theme_dark": "#383848"
+        "theme_dark": "#292929"
       },
       "text_color": {
-        "default": "#a4a4a4",
+        "default": "#d4d4d4",
         "dark": "#ddd",
-        "light": "#d9d9d9"
+        "light": "#f6f6f6"
       }
     }
   },
@@ -33,12 +33,12 @@
     "font_family": {
       "primary": "Nunito:wght@400",
       "primary_type": "sans-serif",
-      "secondary": "Rubik:wght@400;700",
+      "secondary": "Nunito:wght@400;700",
       "secondary_type": "sans-serif"
     },
     "font_size": {
-      "base": "16",
-      "scale": "1.200"
+      "base": "18",
+      "scale": "1.120"
     }
   }
 }

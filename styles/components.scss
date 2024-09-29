@@ -36,12 +36,12 @@
 // content style
 .content {
   @apply prose max-w-none;
-  @apply prose-headings:mb-[.9em] prose-headings:mt-[.5em] prose-headings:font-bold prose-headings:text-dark prose-headings:dark:text-white;
+  @apply prose-headings:mb-[.9em] prose-headings:mt-[.5em] prose-headings:font-bold prose-headings:text-dark prose-headings:dark:text-darkmode-light;
   @apply prose-h1:text-h1-sm md:prose-h1:text-h1;
   @apply prose-h2:text-h2-sm md:prose-h2:text-h2;
   @apply prose-h3:text-h3-sm md:prose-h3:text-h3;
   @apply prose-hr:border-border prose-hr:dark:border-darkmode-border;
-  @apply prose-p:text-base prose-p:text-text prose-p:dark:text-darkmode-light;
+  @apply prose-p:text-base prose-p:text-text prose-p:dark:text-darkmode-text;
   @apply prose-blockquote:mb-12 prose-blockquote:rounded prose-blockquote:border-0 prose-blockquote:bg-theme-light prose-blockquote:px-12 prose-blockquote:py-1 prose-blockquote:not-italic prose-blockquote:dark:bg-theme-dark prose-blockquote:lg:px-16;
   @apply prose-code:px-1 prose-code:text-primary;
   @apply prose-pre:rounded;
@@ -49,7 +49,7 @@
   @apply prose-table:rounded;
   @apply prose-strong:text-dark prose-strong:dark:text-darkmode-light;
   @apply prose-a:text-primary prose-a:no-underline hover:prose-a:underline;
-  @apply prose-li:text-text prose-li:dark:text-darkmode-light;
+  @apply prose-li:text-text prose-li:dark:text-darkmode-text;
   @apply prose-table:overflow-hidden prose-table:border prose-table:border-border prose-table:dark:border-darkmode-border;
   @apply prose-thead:border-border prose-thead:bg-theme-light prose-th:px-4 prose-th:py-4 prose-th:text-dark prose-thead:dark:border-darkmode-border prose-thead:dark:bg-theme-dark prose-th:dark:text-darkmode-light;
   @apply prose-tr:border-border prose-tr:dark:border-darkmode-border;
