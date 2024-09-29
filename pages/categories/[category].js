@@ -15,7 +15,7 @@ const Category = ({ postsByCategories, category, posts, categories }) => {
         <div className="container">
           <h1 className="h2 mb-12">
             Найдены записи содержащие:
-            <span className="section-title ml-1 inline-block capitalize">
+            <span className="section-title mb-0 ml-1 inline-block capitalize">
               {category.replace("-", " ")}
             </span>
           </h1>

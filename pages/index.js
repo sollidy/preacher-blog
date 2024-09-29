@@ -173,7 +173,7 @@ const Home = ({
             </div>
             {/* sidebar */}
             <Sidebar
-              className={"lg:mt-[9.5rem]"}
+              className={"lg:mt-[8.5rem]"}
               posts={posts}
               categories={categories}
             />
