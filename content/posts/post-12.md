@@ -2,7 +2,7 @@
 title: "10 признаков проявления духа Ахава"
 date: 2024-09-17T15:00:00Z
 image: /images/post/post-4.jpg
-categories: ["АШ", "школа духа"]
+categories: ["аш", "школа духа"]
 featured: true
 draft: false
 ---

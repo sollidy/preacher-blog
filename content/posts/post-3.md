@@ -2,7 +2,7 @@
 title: "7 типов токсичных членов семьи"
 date: 2024-09-19T15:00:00Z
 image: /images/post/post-13.jpg
-categories: ["АШ", "школа духа", "семья"]
+categories: ["аш", "школа духа", "семья"]
 featured: true
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Основные причины выгорания служителей"
 date: 2024-09-28T10:00:00Z
 image: /images/post/post-16.jpg
-categories: ["АШ", "школа духа"]
+categories: ["аш", "школа духа"]
 featured: true
 draft: false
 ---
