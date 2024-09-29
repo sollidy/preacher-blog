@@ -16,7 +16,7 @@ const Pagination = ({ section, currentPage, totalPages }) => {
     <>
       {totalPages > 1 && (
         <nav
-          className="item-center mb-4 flex justify-center space-x-1 lg:space-x-2"
+          className="mb-4 flex flex-wrap items-center justify-center space-x-1 lg:space-x-2"
           aria-label="Pagination"
         >
           {/* previous */}
@@ -28,19 +28,9 @@ const Pagination = ({ section, currentPage, totalPages }) => {
                   : `${section ? "/" + section : ""}/page/${currentPage - 1}`
               }
               className="flex items-center rounded-full px-2 py-1 text-3xl font-bold leading-none text-dark dark:text-darkmode-light"
-            >
-              <>
-                <BsArrowLeftShort />
-                <span className="ml-3 text-lg ">Назад</span>
-              </>
-            </Link>
+            ></Link>
           ) : (
-            <span className="flex items-center rounded-full px-2 py-1 text-3xl font-bold text-dark dark:text-darkmode-light ">
-              <>
-                <BsArrowLeftShort />
-                <span className="ml-3 text-lg">Назад</span>
-              </>
-            </span>
+            <span className="flex items-center rounded-full px-2 py-1 text-3xl font-bold text-dark dark:text-darkmode-light "></span>
           )}
 
           {/* page index */}
@@ -75,19 +65,9 @@ const Pagination = ({ section, currentPage, totalPages }) => {
             <Link
               href={`${section ? "/" + section : ""}/page/${currentPage + 1}`}
               className="ml-4 flex items-center rounded-full px-2 py-1 text-3xl font-bold leading-none text-dark dark:text-darkmode-light"
-            >
-              <>
-                <span className="mr-3 text-lg">Вперед</span>
-                <BsArrowRightShort />
-              </>
-            </Link>
+            ></Link>
           ) : (
-            <span className="ml-4 flex items-center rounded-full px-2 py-1 text-3xl font-bold text-dark dark:text-darkmode-light">
-              <>
-                <span className="mr-3 text-lg">Вперед</span>
-                <BsArrowRightShort />
-              </>
-            </span>
+            <span className="ml-4 flex items-center rounded-full px-2 py-1 text-3xl font-bold text-dark dark:text-darkmode-light"></span>
           )}
         </nav>
       )}
