@@ -2,7 +2,7 @@
 title: "7 Типов мужчин, за которых никогда не следует выходить замуж"
 date: 2024-09-19T15:00:00Z
 image: /images/post/post-12.jpg
-categories: ["Андрей Шаповалов", "школа духа", "семья"]
+categories: ["АШ", "школа духа", "семья"]
 featured: true
 draft: false
 ---

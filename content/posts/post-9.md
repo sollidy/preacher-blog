@@ -2,7 +2,7 @@
 title: "5 вопросов перед началом серьёзных взаимоотношений"
 date: 2024-09-18T15:00:00Z
 image: /images/post/post-7.jpg
-categories: ["Андрей Шаповалов", "школа духа", "семья"]
+categories: ["АШ", "школа духа", "семья"]
 featured: true
 draft: false
 ---

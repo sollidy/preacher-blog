@@ -2,7 +2,7 @@
 title: "Основные причины выгорания служителей"
 date: 2024-09-28T10:00:00Z
 image: /images/post/post-16.jpg
-categories: ["Андрей Шаповалов", "школа духа"]
+categories: ["АШ", "школа духа"]
 featured: true
 draft: false
 ---

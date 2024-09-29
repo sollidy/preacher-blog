@@ -2,7 +2,7 @@
 title: "7 Правил Победителей"
 date: 2024-09-16T15:00:00Z
 image: /images/post/post-2.jpg
-categories: ["Андрей Шаповалов", "мини-проповедь", "принципы"]
+categories: ["АШ", "мини-проповедь", "принципы"]
 featured: true
 draft: false
 ---

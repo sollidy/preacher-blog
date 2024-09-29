@@ -2,7 +2,7 @@
 title: "4 этапа нашей жизни или во что ты одет?"
 date: 2024-09-18T15:00:00Z
 image: /images/post/post-9.jpg
-categories: ["Андрей Шаповалов", "мини-проповедь", "принципы"]
+categories: ["АШ", "мини-проповедь", "принципы"]
 featured: false
 draft: false
 ---
