@@ -55,7 +55,7 @@ const PostSingle = ({
                   <ul className="absolute left-2 top-3 flex flex-wrap items-center gap-y-2">
                     {categories.map((tag, index) => (
                       <li
-                        className="mx-2 inline-flex h-7 rounded-[35px] bg-primary px-3 text-white"
+                        className="mx-1 inline-flex h-7 rounded-[35px] bg-primary px-3 text-white sm:mx-1.5"
                         key={"tag-" + index}
                       >
                         <Link
@@ -73,11 +73,11 @@ const PostSingle = ({
                     <InnerPagination posts={posts} date={date} />
                   </div>
                 )}
-                {markdownify(title, "h1", "lg:text-[42px] mt-4")}
+                {markdownify(title, "h1", "lg:text-[42px] my-4 mb-3")}
                 <ul className="flex items-center space-x-4">
                   <li>
                     <Link
-                      className="inline-flex items-center font-secondary text-xs leading-3"
+                      className="flex items-center font-secondary text-xs leading-3"
                       href="/about"
                     >
                       <FaUserAlt className="mr-1.5" />

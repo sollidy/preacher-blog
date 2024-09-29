@@ -25,7 +25,7 @@ const Post = ({ post }) => {
         <ul className="absolute left-2 top-3 flex flex-wrap items-center gap-y-2">
           {post.frontmatter.categories.map((tag, index) => (
             <li
-              className="mx-2 inline-flex h-7 rounded-[35px] bg-primary px-3 text-white"
+              className="mx-1 inline-flex h-7 rounded-[35px] bg-primary px-3 text-white sm:mx-1.5"
               key={"tag-" + index}
             >
               <Link

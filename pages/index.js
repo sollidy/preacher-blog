@@ -95,7 +95,7 @@ const Home = ({
                       <div className="md:col-6">
                         <Post post={featuredPosts[0]} />
                       </div>
-                      <div className="scrollbar-w-[10px] mt-8 max-h-[480px] overflow-x-hidden scrollbar-thin scrollbar-track-gray-100 scrollbar-thumb-border md:col-6 dark:scrollbar-track-gray-800 dark:scrollbar-thumb-darkmode-theme-dark md:mt-0">
+                      <div className="scrollbar-w-[10px] mt-8 max-h-[480px] overflow-x-hidden scrollbar-thin scrollbar-track-gray-100 scrollbar-thumb-border md:col-6 dark:scrollbar-track-[#1f1f1f] dark:scrollbar-thumb-darkmode-theme-dark md:mt-0">
                         {featuredPosts
                           .slice(1, featuredPosts.length)
                           .map((post, i, arr) => (
