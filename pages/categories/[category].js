@@ -11,7 +11,7 @@ const { blog_folder } = config.settings;
 const Category = ({ postsByCategories, category, posts, categories }) => {
   return (
     <Base title={category}>
-      <div className="section mt-16">
+      <div className="section">
         <div className="container">
           <h1 className="h2 mb-12">
             Найдены записи содержащие:
