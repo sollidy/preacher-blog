@@ -95,7 +95,7 @@ const Home = ({
                       <div className="md:col-6">
                         <Post post={featuredPosts[0]} />
                       </div>
-                      <div className="scrollbar-w-[10px] mt-8 max-h-[480px] scrollbar-thin scrollbar-track-gray-100 scrollbar-thumb-border md:col-6 dark:scrollbar-track-gray-800 dark:scrollbar-thumb-darkmode-theme-dark md:mt-0">
+                      <div className="scrollbar-w-[10px] mt-8 max-h-[480px] overflow-x-hidden scrollbar-thin scrollbar-track-gray-100 scrollbar-thumb-border md:col-6 dark:scrollbar-track-gray-800 dark:scrollbar-thumb-darkmode-theme-dark md:mt-0">
                         {featuredPosts
                           .slice(1, featuredPosts.length)
                           .map((post, i, arr) => (
@@ -116,7 +116,7 @@ const Home = ({
                                 />
                               )}
                               <div>
-                                <h3 className="h5 mb-2">
+                                <h3 className="h5 mb-2 text-h6 sm:text-h5">
                                   <Link
                                     href={`/${blog_folder}/${post.slug}`}
                                     className="block hover:text-primary"
@@ -124,7 +124,7 @@ const Home = ({
                                     {post.frontmatter.title}
                                   </Link>
                                 </h3>
-                                <p className="inline-flex items-center font-bold">
+                                <p className="inline-flex items-center text-h6 font-bold">
                                   <FaRegCalendar className="mr-1.5" />
                                   {dateFormat(post.frontmatter.date)}
                                 </p>
