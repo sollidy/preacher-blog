@@ -21,7 +21,12 @@ const Document = () => {
         <meta
           name="theme-color"
           media="(prefers-color-scheme: dark)"
-          content="#000"
+          content="#1a1a1a"
+        />
+        <meta
+          name="theme-color"
+          media="(prefers-color-scheme: light)"
+          content="#fff"
         />
       </Head>
       <body>
