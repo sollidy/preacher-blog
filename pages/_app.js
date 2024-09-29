@@ -56,7 +56,11 @@ const App = ({ Component, pageProps }) => {
           content="width=device-width, initial-scale=1, maximum-scale=5"
         />
       </Head>
-      <ThemeProvider attribute="class" defaultTheme={default_theme}>
+      <ThemeProvider
+        attribute="class"
+        defaultTheme={default_theme}
+        enableSystem={true}
+      >
         <Component {...pageProps} />
       </ThemeProvider>
     </JsonContext>
