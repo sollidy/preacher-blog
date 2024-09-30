@@ -25,7 +25,7 @@ const About = ({ data }) => {
         {markdownify(
           title,
           "h1",
-          "h1 text-left text-[40px] lg:text-[55px] my-10"
+          "h1 text-left text-[40px] lg:text-[54px] my-4"
         )}
 
         <div className="content text-left">

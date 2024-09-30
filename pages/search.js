@@ -29,7 +29,7 @@ const SearchPage = () => {
 
   return (
     <Base title={`Результаты поиска ${query.key}`}>
-      <div className="section">
+      <div className="section mt-4">
         <div className="container">
           <h1 className="h2 mb-8 text-center">
             Результаты поиска: <span className="text-primary">{query.key}</span>

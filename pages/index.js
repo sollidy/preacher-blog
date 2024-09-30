@@ -46,8 +46,8 @@ const Home = ({
             <div
               className={
                 banner.image_enable
-                  ? "mb-8 mt-12 text-center lg:col-6 lg:mt-0 lg:text-left"
-                  : "mb-8 mt-12 text-center lg:col-12 lg:mt-0 lg:text-left"
+                  ? "mb-4 mt-12 text-center lg:col-6 lg:mt-0 lg:text-left"
+                  : "mb-4 mt-12 text-center lg:col-12 lg:mt-0 lg:text-left"
               }
             >
               <div className="banner-title">
