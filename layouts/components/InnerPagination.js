@@ -22,10 +22,9 @@ const InnerPagination = ({ posts, date }) => {
   );
 
   return (
-    <div className="row">
-      <span className="col">{prevButton}</span>
-      <span className="col-8" />
-      <span className="col">{nextButton}</span>
+    <div className="block">
+      <span className="mr-3">{prevButton}</span>
+      <span>{nextButton}</span>
     </div>
   );
 };

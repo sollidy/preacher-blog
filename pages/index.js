@@ -31,7 +31,7 @@ const Home = ({
   return (
     <Base>
       {/* Banner */}
-      <section className="section banner relative pb-0 lg:mt-10">
+      <section className="section banner relative pb-0 lg:mt-8">
         <ImageFallback
           className="absolute bottom-0 left-0 z-[-1] w-full"
           src={"/images/banner-bg-shape.svg"}
@@ -82,7 +82,7 @@ const Home = ({
       </section>
 
       {/* Home main */}
-      <section className="section">
+      <section className="section lg:py-8">
         <div className="container">
           <div className="row items-start">
             <div className="mb-12 lg:col-8 lg:mb-0">
@@ -173,7 +173,7 @@ const Home = ({
             </div>
             {/* sidebar */}
             <Sidebar
-              className={"lg:mt-[8.5rem]"}
+              className={"lg:mt-[8.8rem]"}
               posts={posts}
               categories={categories}
             />

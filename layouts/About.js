@@ -8,7 +8,7 @@ const About = ({ data }) => {
   const { title, image, education, experience } = frontmatter;
 
   return (
-    <section className="section">
+    <section className="section lg:mt-8">
       <div className="container text-center">
         {image && (
           <div className="mb-8">
