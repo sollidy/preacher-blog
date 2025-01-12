@@ -2,7 +2,7 @@
 title: "Как справляться с доминирующими людьми"
 date: 2025-01-12T11:02:00Z
 image: /images/post/post-20.jpg
-categories: ["аш", "школа духа"]
+categories: ["аш", "ключи мудрости"]
 featured: false
 draft: false
 ---
